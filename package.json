@@ -4,7 +4,8 @@
   "description": "WeUs Developer Test - Adress Book",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "start app",
+    "start": "node index.js"
   },
   "keywords": [
     "WeUs",
